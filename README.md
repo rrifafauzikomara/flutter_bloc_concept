@@ -4,6 +4,8 @@ A new Flutter application.
 
 ## Getting Started
 
+![Counter](https://github.com/rrifafauzikomara/flutter_bloc_concept/blob/master/counter.png "Counter App")
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
